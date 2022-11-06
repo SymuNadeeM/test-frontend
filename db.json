@@ -1,0 +1,167 @@
+{
+  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" },
+  "students": [
+    {
+      "userId": "4c9bd4da-52ab-4570-9dfc-12b6c4b614c4",
+      "username": "Ressie32",
+      "email": "Alvis38@gmail.com",
+      "password": "HmLvWmTY8ei8h82",
+      "birthdate": "1981-04-05T22:26:31.250Z",
+      "phone": "522.216.0734 x730"
+    },
+    {
+      "userId": "ab3c6d05-c267-4d3c-af76-5dcc32a2d839",
+      "username": "Kenneth_Moen",
+      "email": "Winfield.Tillman44@hotmail.com",
+      "password": "eGenyyEJDsafsu7",
+      "birthdate": "1942-09-09T15:41:26.756Z",
+      "phone": "784-456-5299 x3011"
+    },
+    {
+      "userId": "fcb06999-b83d-4b77-892d-4636088a1708",
+      "username": "Reta56",
+      "email": "Winfield.Davis@yahoo.com",
+      "password": "WJwm7gG1Nm2mTD4",
+      "birthdate": "1958-04-01T04:20:57.956Z",
+      "phone": "641.313.3782"
+    },
+    {
+      "userId": "837cca6e-7323-45e3-9d03-59ed712ed242",
+      "username": "Cordie.Blick",
+      "email": "Maida39@gmail.com",
+      "password": "kKxzfeEuVDyUi1w",
+      "birthdate": "1961-08-10T16:22:14.765Z",
+      "phone": "(860) 863-7719 x2977"
+    },
+    {
+      "userId": "42bf7302-0cdb-4d78-942a-a86d5cb7de8b",
+      "username": "Aracely_Romaguera42",
+      "email": "Carole.Muller81@hotmail.com",
+      "password": "MK49aZsW4VWH8tf",
+      "birthdate": "1994-01-09T12:06:15.032Z",
+      "phone": "(613) 340-7668 x83803"
+    },
+    {
+      "userId": "b63fbbb5-82cf-4752-a6fa-db88e9d6b076",
+      "username": "Angelina19",
+      "email": "Maurice38@hotmail.com",
+      "password": "2W3UHYdCiqAC7Ir",
+      "birthdate": "1963-04-28T04:53:53.261Z",
+      "phone": "(635) 584-0883"
+    },
+    {
+      "userId": "333bbb03-8875-4e77-94ae-8fc074f1d939",
+      "username": "Aryanna.Abernathy88",
+      "email": "Yessenia78@gmail.com",
+      "password": "dyh6xaOvHCVhkEX",
+      "birthdate": "1944-11-13T23:09:40.666Z",
+      "phone": "(473) 988-3320"
+    },
+    {
+      "userId": "176b0d0f-c01b-442f-afcd-05c58d5ce616",
+      "username": "Delbert_Wiza58",
+      "email": "Noemie_Glover4@yahoo.com",
+      "password": "UWZfGgbBgplEHhi",
+      "birthdate": "1975-08-15T16:35:55.290Z",
+      "phone": "(916) 763-2392 x4884"
+    },
+    {
+      "userId": "70f0e2a2-2bc1-4aca-a9cf-392155ffddd5",
+      "username": "London53",
+      "email": "Geovanni22@yahoo.com",
+      "password": "6JLhtaDjV3BuTyM",
+      "birthdate": "2004-01-28T10:11:01.009Z",
+      "phone": "929.382.8678 x3593"
+    },
+    {
+      "userId": "ec02e11a-3ead-415e-ba37-b84846a41d39",
+      "username": "Edwardo_Huel89",
+      "email": "Preston.Howell81@yahoo.com",
+      "password": "5mUrhUG2nfK9glC",
+      "birthdate": "1991-01-13T12:41:38.326Z",
+      "phone": "761.646.4896"
+    },
+    {
+      "userId": "de60cd45-7b56-4bfe-a449-78970b2bfbea",
+      "username": "Myrtice_Tromp32",
+      "email": "Robyn_Jenkins27@yahoo.com",
+      "password": "NZjdrRiZCYpkAZ4",
+      "birthdate": "1975-11-04T19:38:24.703Z",
+      "phone": "940-343-6321 x01699"
+    },
+    {
+      "userId": "a7f57fa3-2310-48e4-ae7a-279869349763",
+      "username": "Barbara_Swaniawski32",
+      "email": "Shyann_Quigley17@gmail.com",
+      "password": "1heGWnepBw4_58V",
+      "birthdate": "1957-05-06T02:47:36.191Z",
+      "phone": "918.679.5555 x934"
+    },
+    {
+      "userId": "38b4b0f8-b342-4999-abd7-a4fbe2aad608",
+      "username": "Eloy_Klocko51",
+      "email": "Danielle.Beier@gmail.com",
+      "password": "HwlNrF4PJBH0V3z",
+      "birthdate": "1972-01-26T20:00:22.538Z",
+      "phone": "(583) 589-2820 x71315"
+    },
+    {
+      "userId": "c93f8502-6242-4825-9ea0-5750edc698b2",
+      "username": "Angelo_Harris",
+      "email": "Tad.Rutherford@gmail.com",
+      "password": "syBymsxMsJk0uIo",
+      "birthdate": "1974-04-08T08:43:57.116Z",
+      "phone": "781.421.3384 x8232"
+    },
+    {
+      "userId": "d28be888-8640-4c57-b72d-72512e90d9a5",
+      "username": "Flavio63",
+      "email": "Christopher12@yahoo.com",
+      "password": "lA5GaCN1zDOotqB",
+      "birthdate": "1974-01-15T10:27:10.703Z",
+      "phone": "440-520-1442 x9765"
+    },
+    {
+      "userId": "bf3f9f25-2f23-4dd1-a3e4-4c825d497a1a",
+      "username": "Marjorie61",
+      "email": "Ozella_Lindgren95@hotmail.com",
+      "password": "GX_N2NVDm8XVE9o",
+      "birthdate": "1957-06-26T16:44:04.128Z",
+      "phone": "996.815.4182"
+    },
+    {
+      "userId": "15ab7c87-e942-468c-aee1-5f4196d79124",
+      "username": "Amie.Dare40",
+      "email": "Jaclyn_Abshire@hotmail.com",
+      "password": "PKpa1j9d8mh6eCO",
+      "birthdate": "1949-08-19T15:31:18.958Z",
+      "phone": "1-885-688-4575 x578"
+    },
+    {
+      "userId": "704ca335-fd52-41f2-8ff0-9d14dfd05542",
+      "username": "Kathryn_Wehner98",
+      "email": "Breanna_Monahan27@gmail.com",
+      "password": "oA1BZxEvTlqnLwz",
+      "birthdate": "1960-02-23T18:58:43.936Z",
+      "phone": "230-316-9848 x97917"
+    },
+    {
+      "userId": "45a0a7fd-48e5-4885-8fec-bb5cf846bc55",
+      "username": "Maryjane_Stark32",
+      "email": "Ruthie43@hotmail.com",
+      "password": "GmEc19930nipeHk",
+      "birthdate": "2003-06-17T07:35:40.409Z",
+      "phone": "313.809.7444 x6308"
+    },
+    {
+      "userId": "a8150628-8dc0-4d66-ae65-b0245fa4e5b6",
+      "username": "Orion_Graham",
+      "email": "Justen23@hotmail.com",
+      "password": "809PiBrtemRqTyw",
+      "birthdate": "1987-06-10T11:54:13.997Z",
+      "phone": "(840) 508-3445"
+    }
+  ]
+}
