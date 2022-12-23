@@ -73,7 +73,7 @@ const TrenData = [
   {
     id: 9,
     images: arrypic7,
-    dep: "Relaxed Short artragrs..",
+    dep: "Relaxed Short..",
     name: "Watch",
     price: "$45",
     del: "$50",

@@ -1,7 +1,11 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 const Topbar = () => {
+  const [nav, setNav] = useState(true);
+  const handleClick = () => {
+    setNav(!nav);
+  };
   return (
     <>
       <div className="border-b">
@@ -72,8 +76,41 @@ const Topbar = () => {
                 </span>
               </li>
               <li>
-                <i className="fa-solid fa-bars text-gray-500 text-2xl  hover:text-pink-400 duration-500 ml-1"></i>
+                <i
+                  className="fa-solid fa-bars text-gray-500 text-2xl  hover:text-pink-400 duration-500 ml-1 "
+                  onClick={handleClick}
+                ></i>
               </li>
+              {/* drawer bar addd */}
+
+              <div
+                className={
+                  !nav
+                    ? "fixed left-0 top-0 w-[60%] h-full z-50  ease-in-out duration-500 bg-white"
+                    : "fixed left-[-100%] duration-200"
+                }
+              >
+                <div className="p-5">
+                  <div className="flex items-center justify-between">
+                    <div className=" flex items-center gap-[4px] md:gap-2">
+                      <h1 className="text-2xl font-sans font-bold">
+                        <span className="text-[#ff909d]">E-</span>
+                        logo
+                      </h1>
+                    </div>
+                    <div onClick={handleClick}>
+                      <i class="fa-regular fa-circle-xmark text-green text-xl"></i>
+                    </div>
+                  </div>
+                  <ul className="uppercase mt-4 text-ctext divide-ctext2 space-y-2 divide-y">
+                    <li>home</li>
+                    <li>shop</li>
+                    <li>blog</li>
+                    <li>about</li>
+                    <li>contact</li>
+                  </ul>
+                </div>
+              </div>
             </ul>
           </div>
         </div>

@@ -78,30 +78,46 @@ const DealofDay = () => {
                 hurry up! offer ends in:
               </p>
               {/* timer */}
-              <div className="flex flex-wrap items-center">
-                <div className="bg-gray-200 rounded-2xl px-3 py-1 m-2 md:mr-2 text-center">
-                  <p>
-                    <strong>253</strong>
-                  </p>
-                  <p className="text-gray-500">Days</p>
+              <div className="flex flex-wrap items-center gap-2">
+                <div className="w-[56px] h-[56px] flex items-center justify-center p-5 bg-[#ff909d] rounded-lg">
+                  <div className="text-center">
+                    <p className=" font-serif font-bold text-lg text-white">
+                      150
+                    </p>
+                    <p className=" font-mono font-semibold text-xs text-white">
+                      Days
+                    </p>
+                  </div>
                 </div>
-                <div className="bg-gray-200 rounded-2xl px-3 py-1  m-2 md:mr-2 text-center">
-                  <p>
-                    <strong>22</strong>
-                  </p>
-                  <p className="text-gray-500">Hours</p>
+                <div className="w-[56px] h-[56px] flex items-center justify-center p-5 bg-[#ff909d] rounded-lg">
+                  <div className="text-center">
+                    <p className=" font-serif font-bold text-lg text-white">
+                      6
+                    </p>
+                    <p className=" font-mono font-semibold text-xs text-white">
+                      Hours
+                    </p>
+                  </div>
                 </div>
-                <div className="bg-gray-200 rounded-2xl px-3 py-1  m-2 md:mr-2 text-center">
-                  <p>
-                    <strong>41</strong>
-                  </p>
-                  <p className="text-gray-500">Min</p>
+                <div className="w-[56px] h-[56px] flex items-center justify-center p-5 bg-[#ff909d] rounded-lg">
+                  <div className="text-center">
+                    <p className=" font-serif font-bold text-lg text-white">
+                      13
+                    </p>
+                    <p className=" font-mono font-semibold text-xs text-white">
+                      Minutes
+                    </p>
+                  </div>
                 </div>
-                <div className="bg-gray-200 rounded-2xl px-3 py-1  m-2 md:mr-2 text-center">
-                  <p>
-                    <strong>24</strong>
-                  </p>
-                  <p className="text-gray-500">Sec</p>
+                <div className="w-[56px] h-[56px] flex items-center justify-center p-5 bg-[#ff909d] rounded-lg">
+                  <div className="text-center">
+                    <p className=" font-serif font-bold text-lg text-white">
+                      41
+                    </p>
+                    <p className=" font-mono font-semibold text-xs text-white">
+                      Seconds
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>
